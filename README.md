@@ -1,10 +1,13 @@
 ## E School 
 E School is one page online course provider website. It's developed with HTML, CSS & Bootstrap. This site is fully responsive in all devices & it's has 7 section.
 
+## Features
+- Modal SignIn Form
+- Fully Responsive
+
 ## Demo
 - Live
     - [E School](https://mrhrifat.github.io/e-school)
-
 
 ## How To Contribute
 - Fork the repository.
